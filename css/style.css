@@ -17,7 +17,7 @@ footer {
   text-align: center;
   padding: 3px;
   background-color: #f6f6f6;
-  color: white;
+  color: black;
 }
 #carouselExampleFade{
   background-color: #f6f6f6;
@@ -28,7 +28,7 @@ footer {
 }
 #parallax{
     /* The image used */
-    background-image: url("../img/IMG_0438.jpg");
+    background-image: url("../img/IMG_0443.jpg");
     /* Set a specific height */
     min-height: 500px; 
   
@@ -58,13 +58,13 @@ footer {
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
-  background-position: center;
+  background-position: right;
   background-repeat: no-repeat;
   background-size: cover;
 }
 #parallax4{
   /* The image used */
-  background-image: url("../img/IMG_0749.jpg");
+  background-image: url("../img/IMG_0762.jpg");
   /* Set a specific height */
   min-height: 500px; 
 
